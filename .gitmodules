@@ -1,0 +1,2 @@
+[submodule "Submod"]
+	url = https://github.com/lincolnmelo/alfa_elastic_stack/docker_logstash

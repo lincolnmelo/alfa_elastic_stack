@@ -1,6 +1,6 @@
 [submodule "docker_elasticsearch"]
 	path = docker_elasticsearch
-	url = https://github.com/lincolnmelo/alfa_elastic_stack/docker_elasticsearch/.git
+	url = ../docker_elasticsearch
 
 [submodule "docker_logstash"]
 	path = docker_logstash

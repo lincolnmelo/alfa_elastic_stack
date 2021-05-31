@@ -1,2 +1,11 @@
-[submodule "Submod"]
-	url = https://github.com/lincolnmelo/alfa_elastic_stack/docker_logstash
+[submodule "docker_elasticsearch"]
+	path = docker_elasticsearch
+	url = ./docker_elasticsearch
+
+[submodule "docker_logstash"]
+	path = docker_logstash
+	url = ./docker_logstash
+
+[submodule "docker_kibana"]
+	path = docker_kibana
+	url = ./docker_kibana

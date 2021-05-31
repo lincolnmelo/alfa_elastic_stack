@@ -1,11 +1,11 @@
 [submodule "docker_elasticsearch"]
 	path = docker_elasticsearch
-	url = ../docker_elasticsearch/.git
+	url = ../docker_elasticsearch
 
 [submodule "docker_logstash"]
 	path = docker_logstash
-	url = ../docker_logstash/.git
+	url = ../docker_logstash
 
 [submodule "docker_kibana"]
 	path = docker_kibana
-	url = ../docker_kibana/.git
+	url = ../docker_kibana
